@@ -1,0 +1,8 @@
+{
+    "name": "shyevsa/rajasms",
+    "description": "A modified version of RajaSMS smsclass for sending sms trough RajaSMS",
+    "type": "library",
+    "require": {
+        "ext-curl": "*"
+    }
+}
