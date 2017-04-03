@@ -1,6 +1,6 @@
 <?php
 
-namespace shyevsa/rajasms;
+namespace shyevsa\rajasms;
 
 /**
 * Customeized version of SMS-class for RajaSMS
